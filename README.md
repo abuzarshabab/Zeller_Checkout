@@ -4,7 +4,7 @@ Coding Assignment to build the checkout system
 ## How to Run
 
 ### Run Below Script
-`npm i`
+`npm i` \
 `npm run start`
 
 
