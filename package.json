@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "typescript": "^5.5.2"
+  },
+  "name": "zeller_checkout",
+  "description": "Coding Assignment to build the checkout system",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node ./dist/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
