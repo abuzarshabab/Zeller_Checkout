@@ -1,3 +1,7 @@
+//! I have created All logic in the same file, 
+//! I could have modularized this code by creating Interface, Model and Stub folder as well.
+//! In below code Shop Owner can easily enable or disable offer by just modifying pricingRules.
+
 class Checkout {
   private pricingRules: Array<PricingRule>;
   private cartItems: Array<CartItem> = []
